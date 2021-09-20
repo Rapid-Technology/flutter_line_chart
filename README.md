@@ -1,4 +1,4 @@
-# flutter_line_chart
+# Flutter Line Chart
 
 A new Flutter project.
 
