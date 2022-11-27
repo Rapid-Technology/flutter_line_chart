@@ -1,6 +1,6 @@
 # Flutter Line Chart
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/PEY9L7VcSns/maxresdefault.jpg)](https://www.youtube.com/watch?v=PEY9L7VcSns)
 
 ## Getting Started
 
